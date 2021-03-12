@@ -1,0 +1,1 @@
+This sample fetches the storage of a contract from the Tezos Blockchain with [Taquito](https://github.com/ecadlabs/taquito).
