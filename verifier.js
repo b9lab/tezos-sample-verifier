@@ -1,4 +1,4 @@
-const tezos = new taquito.TezosToolkit('https://edonet.smartpy.io/');
+const tezos = new taquito.TezosToolkit('https://florencenet.smartpy.io/');
 
 function updateStatusUI(status, itemSelector) {
   const bar = $(itemSelector).removeClass().addClass("result-bar");
